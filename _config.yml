@@ -10,7 +10,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-repo_url: 'https://tui.dure.app'
+repo_url: 'https://nikescar.github.io/test'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
@@ -18,7 +18,7 @@ prev_next_buttons_location: both
 search_enabled: false
 site_author: Woojae, Park
 # logo: 'https://tui.dure.app/assets/css/theme.css'
-site_favicon: 'https://tui.dure.app/assets/img/favicon.ico'
+site_favicon: 'https://nikescar.github.io/test/assets/img/favicon.ico'
 theme: 'https://nikescar.github.io/jekyll-theme-rtd/assets/css/theme.css'
 extra_theme: 'https://nikescar.github.io/jekyll-theme-rtd/assets/css/theme_extra.css'
 prev_next_buttons_location: None
