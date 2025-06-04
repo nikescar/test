@@ -1,7 +1,8 @@
 title: tui.sh
 description: terminal user interface only bash without ncurses.
 show_downloads: true
-remote_theme: nikescar/jekyll-theme-rtd
+# remote_theme: nikescar/jekyll-theme-rtd
+remote_theme : https://github.com/nikescar/jekyll-theme-rtd
 plugins:
 - jekyll-remote-theme
 
