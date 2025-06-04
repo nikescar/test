@@ -19,8 +19,8 @@ search_enabled: false
 site_author: Woojae, Park
 # logo: 'https://tui.dure.app/assets/css/theme.css'
 # site_favicon: 'assets/img/favicon.ico'
-# theme: 'assets/css/theme.css'
-# extra_theme: 'assets/css/theme_extra.css'
+theme: 'assets/css/theme302.css'
+extra_theme: 'assets/css/theme_extra.css'
 prev_next_buttons_location: None
 prev_next_buttons_location: top
 prev_next_buttons_location: bottom
