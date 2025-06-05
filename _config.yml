@@ -11,7 +11,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 
 # Theme settings
-repo_url: 'https://nikescar.github.io'
+repo_url: 'https://github.com/nikescar/nikescar.github.io'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
